@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Modesens- Clone](https://github.com/sadhakvishu/Slytherin)
 
-- 🌱 I’m currently learning **Spring Boot and**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://sadhakvishu.github.io/](https://sadhakvishu.github.io/)
 
 - 💬 Ask me about **JAVA**
 
-- 📫 How to reach me **sadhakvishu@gmail.com**
+- 📫 You can reach me at **sadhakvishu@gmail.com**
 
 - 📄 Know about my experiences [https://sadhakvishu.github.io/Resources/Vishal-Bhargava-Resume.pdf](https://sadhakvishu.github.io/Resources/Vishal-Bhargava-Resume.pdf)
 
