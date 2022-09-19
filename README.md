@@ -9,11 +9,11 @@
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
 
-- 🌱 I’m currently learning **Masai School (Backend Developer)**
-- 💬 Ask me about **Java**
+- 🌱 I’m currently learning **JAVA**
+- 💬 Ask me about **anything** I'm intresting about Everything..!
 
 -  📄 Know about my experiences [My Resume]()
-- 📫 How to reach me: ...**sadhakvishu@gmail.com**
+- 📫 Get in touch: ...**sadhakvishu@gmail.com**
 
 
 
