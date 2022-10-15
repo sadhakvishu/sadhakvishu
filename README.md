@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+
+</p>
 <h1 align="center">Hi 👋, I'm Vishal Bhargava</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
