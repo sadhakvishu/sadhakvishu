@@ -38,9 +38,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadhakvishu&show_icons=true&theme=blue-green&border_color=FFFFFF&layout=compact" alt="sadhakvishu" /></p>
 
 
-<p align="center">
+<div align="center">
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadhakvishu&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=FFFFFF&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats)
-</p>
+</div>
 
 
 <div align="center">
