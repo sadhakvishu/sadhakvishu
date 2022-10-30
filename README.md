@@ -19,7 +19,6 @@
 - 👨‍💻 All of my projects are available at [https://sadhakvishu.github.io/](https://sadhakvishu.github.io/)
 
 - 💬 Ask me about **JAVA**
-
 - 📫 You can reach me at **sadhakvishu@gmail.com**
 
 - 📄 Know about my experiences [https://sadhakvishu.github.io/Resources/Vishal-Bhargava-Resume.pdf](https://sadhakvishu.github.io/Resources/Vishal-Bhargava-Resume.pdf)
