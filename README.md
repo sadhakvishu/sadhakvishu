@@ -18,7 +18,7 @@
 - 💬 Ask me about **JAVA**
 - 📫 You can reach me at **sadhakvishu@gmail.com**
 
-- 📄 Know about my experiences [https://sadhakvishu.github.io/Resources/Vishal-Bhargava-Resume.pdf](https://sadhakvishu.github.io/Resources/Vishal-Bhargava-Resume.pdf)
+- 📄 Know about my experiences [here](https://sadhakvishu.github.io/Resources/Projects/Vishal-Bhargava-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
