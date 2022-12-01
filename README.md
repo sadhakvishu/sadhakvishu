@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Modesens- Clone](https://github.com/sadhakvishu/Slytherin)
 - 🌱 I’m currently learning **Spring Boot**
-- 👨‍💻 All of my projects are available at [https://sadhakvishu.github.io/](https://sadhakvishu.github.io/)
+- 👨‍💻 All of my projects are available at [here](https://sadhakvishu.github.io/)
 - 💬 Ask me about **JAVA**
 - 📫 You can reach me at **sadhakvishu@gmail.com**
 
