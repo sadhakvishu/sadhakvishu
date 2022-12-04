@@ -14,11 +14,11 @@
 
 - 🔭 I’m currently working on [Modesens- Clone](https://github.com/sadhakvishu/Slytherin)
 - 🌱 I’m currently learning **Spring Boot**
-- 👨‍💻 All of my projects are available at [here](https://sadhakvishu.github.io/)
+- 👨‍💻 All of my projects are available at **[here](https://sadhakvishu.github.io/)**
 - 💬 Ask me about **JAVA**
 - 📫 You can reach me at **sadhakvishu@gmail.com**
 
-- 📄 Know about my experiences [here](https://sadhakvishu.github.io/Resources/Projects/Vishal-Bhargava-Resume.pdf)
+- 📄 Know about my experiences **[here](https://sadhakvishu.github.io/Resources/Projects/Vishal-Bhargava-Resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
